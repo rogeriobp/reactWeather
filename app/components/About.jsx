@@ -4,7 +4,7 @@ var {Link} = require('react-router');
 var About = () => {
   return(
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>React weather app is a webapp built using React and Foundation as a project for the React Web App Developer course by Andrew Mead.</p>
       <p>It fetches data from Open Weather Map API, returning the current weather of a city informed by the user.</p>
       <p>You can find the related links below:</p>
